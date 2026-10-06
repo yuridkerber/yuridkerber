@@ -6,18 +6,6 @@ Atualmente estou construindo minha base em **lógica de programação, desenvolv
 
 ---
 
-## Atualmente estudando
-
-- Lógica de Programação
-- Python
-- TypeScript
-- Desenvolvimento de Sistemas
-- Engenharia de Software
-- Banco de Dados
-- Inteligência Artificial
-
----
-
 ## Tecnologias
 
 ### Atualmente estudando
