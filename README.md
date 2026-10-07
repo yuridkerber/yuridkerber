@@ -5,8 +5,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC Araraqu
 Atualmente estou construindo minha base em **lógica de programação, desenvolvimento de sistemas e engenharia de software**, enquanto começo a explorar tecnologias utilizadas no mercado.
 
 ---
-<a href="https://github.com/yuridkerber/github-readme-stats">
----
 
 ## Tecnologias
 
